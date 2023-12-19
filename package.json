@@ -1,0 +1,20 @@
+{
+  "name": "ai-slpit-names",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/basic": "^4.27.0",
+    "@nlpjs/directline-connector": "^4.26.1",
+    "@nlpjs/express-api-server": "^4.27.0",
+    "compromise": "^14.10.1",
+    "csv-parse": "^5.5.3",
+    "node-nlp": "^1.0.1",
+    "util": "^0.12.5"
+  }
+}
